@@ -2,26 +2,26 @@ import { NbMenuItem } from '@nebular/theme';
 
 export const MENU_ITEMS: NbMenuItem[] = [
   {
-    title: 'E-commerce',
+    title: 'Add Courses',
     icon: 'nb-e-commerce',
     link: '/pages/dashboard',
     home: true,
   },
   {
-    title: 'IoT Dashboard',
+    title: 'Calculate Grade',
     icon: 'nb-home',
     link: '/pages/iot-dashboard',
   },
   {
-    title: 'IoT Dashboard',
+    title: 'Calculation History',
     icon: 'nb-home',
-    link: '/pages/iot-dashboard',
+    link: '/pages/ui-features/typography',
   },
-  {
-    title: 'IoT Dashboard',
-    icon: 'nb-home',
-    link: '/pages/iot-dashboard',
-  },
+  // {
+  //   title: 'IoT Dashboard',
+  //   icon: 'nb-home',
+  //   link: '/pages/iot-dashboard',
+  // },
   // {
   //   title: 'FEATURES',
   //   group: true,
